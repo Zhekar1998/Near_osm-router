@@ -1,18 +1,10 @@
 # OSM Router
 
-Some experiments with OpenStreetMap and Rust.
+Some experiments with OpenStreetMap, Rust and Near protocol blockchane.
 
-![screenshot](https://raw.githubusercontent.com/stepankuzmin/osm-router/master/screenshot.png)
 
 ## Usage
 
-```shell
-git clone https://github.com/stepankuzmin/osm-router.git
-cd osm-router
-wget moscow.osm.pbf
-cargo run -- moscow.osm.pbf
-open debug.html
-```
 
 ## Plans
 
